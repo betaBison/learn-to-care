@@ -5,6 +5,12 @@ Example code to begin diving into how you to create an algorithm that
 
 ![covid deaths](https://github.com/betaBison/learn-to-care/blob/main/docs/img/deaths.png?raw=true)
 
+## Installation
+1. Install dependencies:  
+   ``` pip3 install matplotlib pandas numpy```
+2. Clone this repository:  
+   ``` git clone git@github.com:betaBison/learn-to-care.git```
+
 
 ## Data
 1. COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries.
