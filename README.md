@@ -1,6 +1,6 @@
 # learn-to-care
 
-Example code to begin diving into how you to create an algorithm that
+Example code to begin diving into how you might create an algorithm that
 "learns" the best personalized healthcare for patients.
 
 ![covid deaths](https://github.com/betaBison/learn-to-care/blob/main/docs/img/deaths.png?raw=true)
