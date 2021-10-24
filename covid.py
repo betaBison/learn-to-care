@@ -1,7 +1,7 @@
 ########################################################################
 # Author(s):    D. Knowles
 # Date:         26 Jul 2021
-# Desc:         working with heart disease dataset
+# Desc:         working with COVID-19 dataset
 ########################################################################
 
 # import python modules that will be used in the code
